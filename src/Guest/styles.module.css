@@ -1,0 +1,14 @@
+.guest {
+  /* TODO: fill in styles to match design */
+  border: 1px solid #003c7d;
+  margin-top: 5px;
+  background-color: #005bbe;
+  padding: 15px;
+  color: white;
+}
+
+.guest.outlined {
+  /* TODO: fill in styles to match design */
+  border: 1px dashed #555555;
+  background: none;
+}

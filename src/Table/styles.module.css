@@ -1,0 +1,22 @@
+.table {
+  /* TODO: fill in styles to match design */
+  font-size: 32px;
+  background-color: #fed602;
+  border: 5px solid #cccccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 30%;
+  padding: 15px;
+  position: relative;
+}
+
+.error {
+  /* TODO: fill in styles to match design */
+  background-color: rgba(0, 0, 0, 0.5);
+  inset: 0;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}

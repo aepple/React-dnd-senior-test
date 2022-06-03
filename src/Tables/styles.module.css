@@ -1,0 +1,8 @@
+.tables {
+  /* TODO: fill in styles to match design */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin: 5px;
+}
