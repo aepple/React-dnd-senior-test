@@ -1,4 +1,4 @@
-## Banquet table organizer app - aepple: To Albin, please check. This is my work. please check, I'm Nakamoto.
+## Banquet table organizer app - aepple: To Albin, please check. This is my work. I'm Nakamoto.
 
 
 https://user-images.githubusercontent.com/106753424/172024707-876b2c5b-bde2-4f1a-8a59-95f3176ef9a6.mp4
